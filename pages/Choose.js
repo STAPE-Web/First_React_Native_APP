@@ -39,8 +39,7 @@ export default function Choose ({ navigation }) {
         </View>
         <View style={styles.whiteBtn}>
           <Text style={styles.whiteBtnText}>css quiz</Text>
-        </View>
-        
+        </View> 
       </SafeAreaView>
     );
   }
